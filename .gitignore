@@ -6,9 +6,13 @@
 .vscode/
 jsconfig.json
 
+# Android native build (inside example app)
+android/build/
+android/app/build/
+
 # Xcode
 #
-build/
+example/
 *.pbxuser
 !default.pbxuser
 *.mode1v3

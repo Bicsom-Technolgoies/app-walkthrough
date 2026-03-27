@@ -1,0 +1,1 @@
+{"version":3,"file":"useAutoScroll.d.ts","sourceRoot":"","sources":["../../src/hooks/useAutoScroll.ts"],"names":[],"mappings":"AAAA,OAAO,EAAa,SAAS,EAAE,MAAM,OAAO,CAAC;AAC7C,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAC1C,OAAO,EAAE,eAAe,EAAE,MAAM,UAAU,CAAC;AAE3C;;;;;;GAMG;AACH,eAAO,MAAM,aAAa,GACtB,aAAa,eAAe,GAAG,IAAI,EACnC,WAAW,SAAS,CAAC,UAAU,CAAC,GAAG,IAAI,SA6B1C,CAAC"}
