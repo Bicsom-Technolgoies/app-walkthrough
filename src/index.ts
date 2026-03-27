@@ -1,5 +1,11 @@
-// Reexport the native module. On web, it will be resolved to WalkthroughModule.web.ts
-// and on native platforms to WalkthroughModule.ts
-export { default } from './WalkthroughModule';
-export { default as WalkthroughView } from './WalkthroughView';
-export * from  './Walkthrough.types';
+export { WalkthroughProvider } from './WalkthroughProvider';
+export { WalkthroughZone } from './WalkthroughZone';
+export { useWalkthrough } from './hooks/useWalkthrough';
+// Do NOT use: export default WalkthroughProvider;
+export type {
+    StepLayout,
+    WalkthroughCallbacks,
+    WalkthroughContextValue,
+} from './WalkthroughContext';
+
+export type { TooltipProps, WalkthroughStep } from './types';
