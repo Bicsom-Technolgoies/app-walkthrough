@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # walkthrough
 
 React Native walkthrough module
@@ -33,3 +34,7 @@ Run `npx pod-install` after installing the npm package.
 # Contributing
 
 Contributions are very welcome! Please refer to guidelines described in the [contributing guide]( https://github.com/expo/expo#contributing).
+=======
+# app-walkthrough
+This is the react native library for In App walkthroughs.
+>>>>>>> 8e6eef980fce37bae75b75aa5f189c258cc36a68
