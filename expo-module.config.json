@@ -1,9 +1,0 @@
-{
-  "platforms": ["apple", "android", "web"],
-  "apple": {
-    "modules": ["WalkthroughModule"]
-  },
-  "android": {
-    "modules": ["com.bicsom.walkthrough.WalkthroughModule"]
-  }
-}
